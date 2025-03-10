@@ -3,31 +3,31 @@ const products = {
         {
             name: "סט מברגים קטן",
             description: "סט מברגים קטן ושימושי לתיקונים קטנים. קומפקטי ונוח לנשיאה.",
-            image: "images/screwdriver.jpg",
-            link: "https://www.aliexpress.com/item/1005006093539824.html"
+            image: "images/2.jpg",
+            link: "https://he.aliexpress.com/item/1005005732566816.html?spm=a2g0o.detail.pcDetailBottomMoreOtherSeller.6.5f517Dfo7DfoQ1&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=04ea94fb-8c54-4191-984d-cbd90ef480fe&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:04ea94fb-8c54-4191-984d-cbd90ef480fe,tpp_buckets:668%232846%238112%231997&pdp_ext_f=%7B%22order%22%3A%224411%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%7D&pdp_npi=4%40dis%21ILS%216.00%216.00%21%21%211.62%211.62%21%4021004fc517416409969948457ebbd9%2112000034149093691%21rec%21IL%212217664280%21X&utparam-url=scene%3ApcDetailBottomMoreOtherSeller%7Cquery_from%3A"
         },
         {
             name: "פלייר מיניאטורי",
             description: "פלייר מיניאטורי לשימוש מדויק. מתאים לעבודות אלקטרוניקה ודומות.",
-            image: "images/mini-pliers.jpg",
+            image: "images/2.jpg",
             link: "https://www.aliexpress.com/item/1005001509015112.html"
         },
         {
             name: "סרט מדידה מחזיק מפתחות",
             description: "סרט מדידה קטן עם מחזיק מפתחות. תמיד זמין למדידות מהירות.",
-            image: "images/measuring-tape.jpg",
+            image: "images/2.jpg",
             link: "https://www.aliexpress.com/item/32845893322.html"
         },
         {
             name: "פלס קטן",
             description: "פלס קטן ונוח לבדיקת ישרות. מתאים לתליית תמונות ועוד.",
-            image: "images/level-tool.jpg",
+            image: "images/2.jpg",
             link: "https://www.aliexpress.com/item/1005005856754025.html"
         },
         {
             name: "סט מקדחים קטנים",
             description: "סט מקדחים קטנים למגוון עבודות. מתאים למקדחות ידניות וחשמליות קטנות.",
-            image: "images/drill-bits.jpg",
+            image: "images/2.jpg",
             link: "https://www.aliexpress.com/item/1005005959929562.html"
         }
     ],
@@ -35,31 +35,31 @@ const products = {
         {
             name: "סכין יפנית",
             description: "סכין יפנית חדה ונוחה לשימוש. מתאימה לחיתוך מדויק.",
-            image: "images/utility-knife.jpg",
+            image: "images/2.jpg",
             link: "https://www.aliexpress.com/item/1005004724838662.html"
         },
         {
             name: "פטיש קטן",
             description: "פטיש קטן וקל משקל. מתאים לתיקונים קטנים בבית.",
-            image: "images/small-hammer.jpg",
+            image: "images/2.jpg",
             link: "https://www.aliexpress.com/item/1005005697362031.html"
         },
         {
             name: "סט ניירות שיוף",
             description: "סט ניירות שיוף במגוון גסויות. מתאים לשיוף עץ, מתכת ועוד.",
-            image: "images/sandpaper.jpg",
+            image: "images/2.jpg",
             link: "https://www.aliexpress.com/item/1005002766699318.html"
         },
         {
             name: "סט מפתחות קטנים",
             description: "סט מפתחות אלן קטנים. מתאים לתיקונים של רהיטים ומכשירים.",
-            image: "images/wrench-set.jpg",
+            image: "images/2.jpg",
             link: "https://www.aliexpress.com/item/1005004245607316.html"
         },
         {
             name: "מסור קטן",
             description: "מסור ידני קטן ונוח לשימוש. מתאים לחיתוך עץ ופלסטיק.",
-            image: "images/small-saw.jpg",
+            image: "images/2.jpg",
             link: "https://www.aliexpress.com/item/1005003666506380.html"
         }
     ],
@@ -67,31 +67,31 @@ const products = {
         {
             name: "מלחם חשמלי",
             description: "מלחם חשמלי בסיסי למתחילים. מתאים לתיקוני אלקטרוניקה.",
-            image: "images/soldering-iron.jpg",
+            image: "images/2.jpg",
             link: "https://www.aliexpress.com/item/1005005537599023.html"
         },
         {
             name: "חשפן חוטים",
             description: "חשפן חוטים אוטומטי. מקל על עבודות חשמל.",
-            image: "images/wire-stripper.jpg",
+            image: "images/2.jpg",
             link: "https://www.aliexpress.com/item/1005002953046777.html"
         },
         {
             name: "אקדח דבק חם",
             description: "אקדח דבק חם קטן ונוח לשימוש. מתאים לעבודות יצירה ותיקונים.",
-            image: "images/hot-glue-gun.jpg",
+            image: "images/2.jpg",
             link: "https://www.aliexpress.com/item/1005005602058428.html"
         },
         {
             name: "מולטימטר",
             description: "מולטימטר דיגיטלי לבדיקת מתח, זרם והתנגדות.",
-            image: "images/multimeter.jpg",
+            image: "images/2.jpg",
             link: "https://www.aliexpress.com/item/1005004940566416.html"
         },
         {
             name: "סט מקדחים",
             description: "סט מקדחים מגוון לשימוש במקדחות חשמליות.",
-            image: "images/drill-bit-set.jpg",
+            image: "images/2.jpg",
             link: "https://www.aliexpress.com/item/1005005671545628.html"
         }
     ],
@@ -99,31 +99,31 @@ const products = {
         {
             name: "מקדחה חשמלית",
             description: "מקדחה חשמלית נטענת. מתאימה לקידוח בעץ, מתכת וקירות.",
-            image: "images/electric-drill.jpg",
+            image: "images/2.jpg",
             link: "https://www.aliexpress.com/item/1005005666992523.html"
         },
         {
             name: "מסור עגול",
             description: "מסור עגול חשמלי קטן. מתאים לחיתוך לוחות עץ.",
-            image: "images/circular-saw.jpg",
+            image: "images/2.jpg",
             link: "https://www.aliexpress.com/item/1005004719247441.html"
         },
         {
             name: "מכונת שיוף",
             description: "מכונת שיוף חשמלית. מתאימה לשיוף עץ ומשטחים אחרים.",
-            image: "images/sanding-machine.jpg",
+            image: "images/2.jpg",
             link: "https://www.aliexpress.com/item/1005005877861962.html"
         },
         {
             name: "אקדח חום",
             description: "אקדח חום חשמלי. מתאים להסרת צבע, כיפוף פלסטיק ועוד.",
-            image: "images/heat-gun.jpg",
+            image: "images/2.jpg",
             link: "https://www.aliexpress.com/item/1005005667104040.html"
         },
         {
             name: "ארגז כלים",
             description: "ארגז כלים לארגון הכלים שלך. מתאים לאחסון וניוד.",
-            image: "images/toolbox.jpg",
+            image: "images/2.jpg",
             link: "https://www.aliexpress.com/item/1005005741002368.html"
         }
     ]
