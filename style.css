@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    direction: rtl; /* Right-to-left for Hebrew */
+}
+
+header {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+.section.category {
+    margin-bottom: 30px;
+}
+
+.section.category h2 {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+}
+
+.products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.product {
+    width: 200px;
+    margin: 15px;
+    padding: 10px;
+    border: 1px solid #eee;
+    text-align: center;
+}
+
+.product img {
+    max-width: 150px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.product a {
+    display: block;
+    margin-top: 10px;
+    text-decoration: none;
+    background-color: #007bff;
+    color: white;
+    padding: 8px 15px;
+    border-radius: 5px;
+}
